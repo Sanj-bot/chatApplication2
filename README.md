@@ -4,7 +4,7 @@ Basic real time chat application with;
 * socket.io
 * ExpressJS
 
-Difficulty :full_moon::full_moon::full_moon::full_moon::new_moon::new_moon::new_moon::new_moon::new_moon::new_moon:
+
 
 
 
